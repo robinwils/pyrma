@@ -11,6 +11,7 @@
     "bootstrap-vue": "^2.1.0",
     "core-js": "^3.6.5",
     "roughjs": "^4.3.1",
+    "tone": "^14.7.39",
     "vue": "^2.6.11"
   },
   "devDependencies": {
