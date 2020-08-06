@@ -7,7 +7,7 @@ export default {
     name: "SequencerStep",
     props: {
         x: Number,
-        y: Number,
+        y: Number
     },
     data: function () {
         return {
